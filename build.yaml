@@ -11,6 +11,7 @@
 #   - board: nice_nano_v2
 #     shield: reviung41
 #
+#
 ---
 include:
   - board: nrf52840dongle_nrf52840 
